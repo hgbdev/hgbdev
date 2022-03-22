@@ -1,4 +1,4 @@
-## 👋 Hi there!
+### 👋 Hi there!
 
 My name is Huynh Gia Boi, currently a fullstack developer in Ho Chi Minh City.
 
