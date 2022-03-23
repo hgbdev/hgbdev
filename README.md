@@ -6,7 +6,7 @@ I have 2+ years of experience working with JavaScript(TypeScript), and I'm very 
 
 - https://hgbdev.memos.pub/notes
 
-⌨️🖥️☕🎵
+⌨️🖥️☕🎵\
 📷 🎹 🏸
 
 
