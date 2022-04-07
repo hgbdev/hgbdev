@@ -8,9 +8,3 @@ I have 2+ years of experience working with JavaScript(TypeScript), and I'm very 
 
 ⌨️🖥️☕🎵
 📷 🎹 🏸🖌️
-
-
-<!---
-hgbdev/hgbdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
