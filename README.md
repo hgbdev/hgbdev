@@ -1,10 +1,8 @@
-### 👋 Hi there!
+# 👋 Hi! I'm Gia-Boi Huynh
+Fullstack developer with 2.5+ years of experience in software development.
 
-My name is Huynh Gia Boi, currently a fullstack developer in Ho Chi Minh City.
+![image](https://user-images.githubusercontent.com/61721550/164292909-aca9ef22-dd86-4d24-a545-1cdff2edec42.png)
+![image](https://user-images.githubusercontent.com/61721550/164293194-9967b08c-6ccb-4ecb-869d-8aedaae79792.png)
+![image](https://user-images.githubusercontent.com/61721550/164293265-b7ff85c6-3253-47c2-9e2d-404032184cad.png)
+![image](https://user-images.githubusercontent.com/61721550/164293470-a60b359a-054b-4f4c-bc8e-223c42763468.png)
 
-I have 2+ years of experience working with JavaScript(TypeScript), and I'm very excited to learn new software development technologies.
-
-- https://hgbdev.memos.pub/notes
-
-⌨️🖥️☕🎵
-📷 🎹 🏸🖌️
